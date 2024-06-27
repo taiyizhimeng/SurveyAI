@@ -1,3 +1,3 @@
 # SurveyAI
 
-1day
+2day
