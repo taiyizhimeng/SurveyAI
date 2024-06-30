@@ -1,0 +1,7 @@
+/*
+ * 该全局样式无法覆盖wxss自带的局部样式，所以暂时写入了局部样式中，index.scss
+ */
+.at-button--primary {
+  background: #806497;
+  border-color: #806497;
+}
