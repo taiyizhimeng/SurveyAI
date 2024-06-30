@@ -1,0 +1,7 @@
+mbti-test-mini/dist/
+mbti-test-mini/deploy_versions/
+mbti-test-mini/.temp/
+mbti-test-mini/.rn_temp/
+mbti-test-mini/node_modules/
+mbti-test-mini/.DS_Store
+mbti-test-mini/.swc
